@@ -1,4 +1,3 @@
-
 # Commenting just for tweaking this file... 
 FROM nginx:alpine
 COPY static /usr/share/nginx/html
